@@ -55,8 +55,7 @@ Visualization: Optional graphing with black background and time-formatted X-axis
 ## Real-Time Data & Dashboard Visualization (e.g., Grafana)
 In real-world IoT deployments, this script is especially useful for detecting and handling data loss or transmission gaps in time series data.
 
-
-
+![Data Visualization](assets/visual.png)
 👨‍💻 Author
 Vinay N
 Version: v1.0.0
